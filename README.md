@@ -12,3 +12,4 @@
 - [X] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+- Виконав Зіневич Роман
